@@ -2,6 +2,8 @@
 This Python-based resistance feedback control system provides automated voltage regulation for single channel or multichannel control. <br> 
 The system continuously monitors resistances and adjusts voltages to maintain target resistances within a tolerance range and is able to run multiple feedback sequences. 
 
+![Alt text](images/multisequence-control.svg)
+
 # System Architecture
 The control system consists of two main functions that work together:
 
